@@ -33,11 +33,6 @@ Check out [*What's New?*](https://beautifuljekyll.com/updates/) to see the lates
 - **Photos support**: Any page can have a full-width cover photo and thumbnail.
 - **RSS**: An RSS feed is automatically created, so you can even host a podcast easily with Beautiful Jekyll.
 
-<h2 id="sponsors">Sponsors 🏆</h2>
-
-> There are no sponsors yet
-
-[Become the first sponsor for Beautiful Jekyll and unlock special rewards\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)
 
 # Build your website in 3 steps
 
